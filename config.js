@@ -1,8 +1,5 @@
 module.exports = {
   "platform": "github",
-  "branchConcurrentLimit": "10",
-  "prHourlyLimit": 0,
-
   regexManagers: [
     {
       fileMatch: ['k3s.version'],
